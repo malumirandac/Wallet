@@ -1,0 +1,17 @@
+.btn-group a{
+    margin-right: 10px;
+}
+.btn-primary {
+    padding: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    color: white;
+    background-color: black;
+    border-color: black;
+}
+.btn-primary:hover{
+    background-color: rgb(104, 104, 104);
+}
+.btn-primary:active{
+    background-color: purple;
+}
